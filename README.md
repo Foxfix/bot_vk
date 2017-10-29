@@ -8,4 +8,4 @@ Python 3.4.3
     
     $ pip install vk-api==8.8
     
- [Bot](https://vk.com/club150661849 )
+
